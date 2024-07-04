@@ -6,7 +6,7 @@
 3.  Add the following JSON objects which we will use as references in this project. These are sample records for users that we want to control from our database.
 4.  Open your MongoDB Compass and connect to your MongoDB Atlas database and then insert the two JSON documents above.
    
-![Featured Image](https://i.postimg.cc/SR7jqdtm/Screenshot-271.png)
+![Featured Image](https://res.cloudinary.com/dkddubkcn/image/upload/v1720115724/Screenshot_271_duwfw4.png)
   
 # Steps on how to run  
 1)  Clone the repository using the below command  
