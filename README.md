@@ -1,7 +1,10 @@
 # Prerequisites  
 1.  Create a MongoDB Atlas cluster.
-2.  Create a database called users_db with a collection users  
-  
+2.  Create a database called users_db with a collection users
+3.  Add the following JSON objects which we will use as references in this project. These are sample records for users that we want to control from our database.
+4.  Open your MongoDB Compass and connect to your MongoDB Atlas database and then insert the two JSON documents above.
+    
+   
 # Steps on how to run  
 1)  Clone the repository using the below command  
 ```
